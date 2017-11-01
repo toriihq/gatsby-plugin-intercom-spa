@@ -1,0 +1,20 @@
+[tal ~/torii/gatsby-plugin-intercom-spa]$ vi ../torii_extension/.gitignore 
+
+node_modules/*
+
+.env
+*.tmp
+*.log
+
+# IntelliJ project files
+.idea
+*.iml
+*.ipr
+*.iws
+
+# Mac files
+*.DS_Store
+
+/gatsby-browser.js
+/gatsby-ssr.js
+yarn.lock
