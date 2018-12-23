@@ -1,7 +1,7 @@
 {
   "name": "gatsby-plugin-intercom-spa",
   "description": "Gatsby plugin to add intercom onto a site",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "author": "Tal Bereznitskey <berzniz@gmail.com>",
   "devDependencies": {
     "babel-cli": "^6.26.0",

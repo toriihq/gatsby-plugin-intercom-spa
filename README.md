@@ -13,7 +13,8 @@ plugins: [
   {
     resolve: 'gatsby-plugin-intercom-spa',
     options: {
-      app_id: 'YOUR_INTERCOM_APP_ID'
+      app_id: 'YOUR_INTERCOM_APP_ID',
+      include_in_development: true,
     }
   }
 ]
