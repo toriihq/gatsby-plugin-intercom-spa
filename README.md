@@ -15,7 +15,14 @@ plugins: [
     options: {
       app_id: 'YOUR_INTERCOM_APP_ID',
       include_in_development: true,
+      delay_timeout: 0
     }
   }
 ]
 ```
+
+## Configuration
+
+- `app_id` - Required. Your Intercom application ID
+- `include_in_development` - Optional. Defaults to `false`
+- `delay_timeout` - Optional. Number of milliseconds to wait before loading the Intercom widget. Defaults to `0`
