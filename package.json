@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-plugin-intercom-spa",
+  "name": "@wispenceapp/gatsby-plugin-intercom",
   "description": "Gatsby plugin to add intercom onto a site",
-  "version": "0.2.0",
-  "author": "Tal Bereznitskey <berzniz@gmail.com>",
+  "version": "0.0.1",
+  "author": "Ruslan Naryzhnyi <ruslan.naryzhniy@gmail.com>",
   "files": [
     "gatsby-browser.js",
     "gatsby-ssr.js"
@@ -30,6 +30,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/toriihq/gatsby-plugin-intercom-spa.git"
+    "url": "https://github.com/wispenceapp/gatsby-plugin-intercom-spa.git"
   }
 }
