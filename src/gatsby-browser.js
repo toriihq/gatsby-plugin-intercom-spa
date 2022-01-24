@@ -6,7 +6,8 @@ exports.onInitialClientRender = () => {
   }
 
   window.Intercom('boot', {
-    app_id: window.IntercomAppId
+    app_id: window.IntercomAppId,
+    hide_default_launcher: window.HideDefaultLauncher,
   })
 }
 
